@@ -1,0 +1,91 @@
+[
+    {
+        "question": "Câu 1. Trong Javascript sự kiện OnUnload thực hiện khi nào?",
+        "optionA": "A. Khi bắt đầu chương trình chạy",
+        "optionB": "B. Khi click chuột",
+        "optionC": "C. Khi kết thúc một chương trình",
+        "optionD": "D. Khi di chuyển chuột qua",
+        "answer": "C. Khi kết thúc một chương trình"
+    },
+
+    {
+        "question": "Câu 2. Trong Javascript sự kiện Onblur thực hiện khi nào?",
+        "optionA": "A. Khi một đối tượng trong form mất focus",
+        "optionB": "B. Khi một đối tượng trong form có focus",
+        "optionC": "C. Khi di chuyển con chuột qua form",
+        "optionD": "D.Khi click chuột vào nút lệnh",
+        "answer": "A. Khi một đối tượng trong form mất focus"
+    },
+
+    {
+        "question": "Câu 3. Trong Javascript sự kiện OnMouseOver thực hiện khi nào?",
+        "optionA": "A. Khi một đối tượng trong form mất focus",
+        "optionB": "B. Khi một đối tượng trong form có focus",
+        "optionC": "C. Khi di chuyển con chuột qua một đối tượng trong form",
+        "optionD": "D. Khi click chuột vào nút lệnh",
+        "answer": "C. Khi di chuyển con chuột qua một đối tượng trong form"
+    },
+
+    {
+        "question": "Câu 4. Trong Javascript sự kiện Onclick xảy ra khi nào?",
+        "optionA": "A. Khi một đối tượng trong form mất focus",
+        "optionB": "B. Khi một đối tượng trong form có focus",
+        "optionC": "C. Khi click chuột vào một đối tượng trong form",
+        "optionD": "D. Khi click chuột vào nút lệnh",
+        "answer": "D. Khi click chuột vào nút lệnh"
+    },
+
+    {
+        "question": "Câu 5. Trong Javascript sự kiện Onchange thực hiện khi nào?",
+        "optionA": "A. Khi một đối tượng trong form mất focus",
+        "optionB": "B. Khi một đối tượng trong form có focus",
+        "optionC": "C. Xảy ra khi giá trị của một trường trong form được người dùng thay đổi",
+        "optionD": "D. Khi click chuột vào nút lệnh",
+        "answer": "C. Xảy ra khi giá trị của một trường trong form được người dùng thay đổi"
+    },
+
+    {
+        "question": "Câu 6. Thẻ <input type='text'> dùng để làm gì?",
+        "optionA": "A. Tạo một ô text để nhập dữ liệu 1 dòng",
+        "optionB": "B. Tạo một ô password",
+        "optionC": "C. Tạo một  textbox cho phép nhập liệu nhiều dòng",
+        "optionD": "D. Tất cả các ý trên",
+        "answer": "A. Tạo một ô text để nhập dữ liệu 1 dòng"
+    },
+
+    {
+        "question": "Câu 7. Thẻ <input type='Password'> dùng để làm gì?",
+        "optionA": "A. Tạo một ô text để nhập dữ liệu 1 dòng",
+        "optionB": "B. Tạo một ô password ",
+        "optionC": "C. Tạo một  textbox cho phép nhập liệu nhiều dòng",
+        "optionD": "D. Tất cả các ý trên",
+        "answer": "B. Tạo một ô password "
+    },
+
+    {
+        "question": "Câu 8. Thẻ <textarea ></texterea> dùng để làm gì?",
+        "optionA": "A. Tạo một ô text để nhập dữ liệu 1 dòng",
+        "optionB": "B. Tạo một ô password",
+        "optionC": "C. Tạo một  textbox cho phép nhập liệu nhiều dòng",
+        "optionD": "D. Tất cả các ý trên",
+        "answer": "C. Tạo một  textbox cho phép nhập liệu nhiều dòng"
+    },
+
+    {
+        "question": "Câu 9. Thẻ <input type=”Submit” dùng để làm gì?",
+        "optionA": "A. Tạo một ô text để nhập dữ liệu",
+        "optionB": "B. Tạo một nút lệnh dùng để gửi tin trong form đi",
+        "optionC": "C. Tạo một nút lệnh dùng để xóa thông tin trong form",
+        "optionD": "D. Tất cả các ý trên",
+        "answer": "B. Tạo một nút lệnh dùng để gửi tin trong form đi"
+    },
+
+    {
+        "question": "câu 10. Chúng ta đặt JavaScript bên trong phần tử HTML nào?",
+        "optionA": "A. javascript",
+        "optionB": "B. script",
+        "optionC": "C. scripting",
+        "optionD": "D. js",
+        "answer": "B. script"
+    }
+]

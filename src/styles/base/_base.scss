@@ -1,0 +1,39 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    
+}
+
+.valid {
+    color: green;
+}
+
+.warning {
+    color: orange !important;
+}
+
+.invalid {
+    color: red !important;
+}
+
+.toast-invalid {
+    background-color: #ff0000 !important;
+    border-radius: 5px !important;
+    color: #fff !important;
+}
+
+.toast-valid {
+    background-color: #04aa6d !important;
+    border-radius: 5px !important;
+    color: #fff !important;
+}
+
+.disable {
+    background-color: #ccc !important;
+    box-shadow: none !important;
+    opacity: 0.9 !important;
+    pointer-events: none;
+}
